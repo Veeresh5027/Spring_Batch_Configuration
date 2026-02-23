@@ -16,3 +16,14 @@ The goal of this project is to automate the migration of large volumes of data w
 * **Job Repository:** Tracks job execution metadata (Start time, End time, Status) in the database.
 
 ---
+
+## 🛠 Tech Stack
+| Category | Technology |
+| :--- | :--- |
+| **Framework** | Spring Boot 3.x, Spring Batch 5.x |
+| **Language** | Java 17 |
+| **Database** | MySQL 8.0 |
+| **ORM** | Spring Data JPA / Hibernate |
+| **Build Tool** | Maven |
+
+---
