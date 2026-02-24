@@ -58,8 +58,6 @@ spring.datasource.password=your_password
 spring.batch.jdbc.initialize-schema=always
 spring.jpa.hibernate.ddl-auto=update
 
----
-
 # Clone the repository
 git clone [https://github.com/Veeresh5027/Spring_Batch_Configuration.git](https://github.com/Veeresh5027/Spring_Batch_Configuration.git)
 
