@@ -36,7 +36,7 @@ The job follows a strictly decoupled architecture:
 ## 🛠 Tech Stack
 | Category | Technology |
 | :--- | :--- |
-| **Java Version** | Java 17 |
+| **Java Version** | Java 17+ |
 | **Framework** | Spring Boot 3.x, Spring Batch 5.x |
 | **Database** | MySQL 8.0 |
 | **ORM** | Spring Data JPA |
