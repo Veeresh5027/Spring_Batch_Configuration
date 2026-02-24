@@ -57,3 +57,17 @@ spring.datasource.password=your_password
 # Required for Spring Batch 5+ to manage metadata tables
 spring.batch.jdbc.initialize-schema=always
 spring.jpa.hibernate.ddl-auto=update
+
+---
+
+# Clone the repository
+git clone [https://github.com/Veeresh5027/Spring_Batch_Configuration.git](https://github.com/Veeresh5027/Spring_Batch_Configuration.git)
+
+# Navigate to the project directory
+cd Spring_Batch_Configuration
+
+# Build the project and download dependencies
+mvn clean install
+
+# Run the Spring Boot Application
+mvn spring-boot:run
